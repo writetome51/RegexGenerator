@@ -1,0 +1,1 @@
+RegexGenerator is still very rough around the edges and not ready to be published on npm.

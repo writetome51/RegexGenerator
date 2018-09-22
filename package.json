@@ -1,0 +1,21 @@
+{
+  "name": "self-identifiable",
+  "version": "1.0.1",
+  "description": "a tiny abstract class with a 'className' property and nothing else",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "small",
+    "abstract",
+    "base",
+    "class"
+  ],
+  "author": "Steve Thompson",
+  "license": "FREE",
+  "homepage": "",
+  "dependencies": {
+    "method-chainable": "latest"
+  }
+}
